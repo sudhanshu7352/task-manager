@@ -22,18 +22,18 @@ TaskFlow is a basic task management API built using Node.js and Express.js. It a
 1. Clone the repository or download the source code.
 
    ```bash
-   git clone https://github.com/sudhanshu7352/taskflow.git
-   cd taskflow
+   git clone https://github.com/sudhanshu7352/task-manager.git
+   cd task-manager
    
 2. Install the dependencies.
    
-  ```bash 
-  npm install
+   ```bash 
+   npm install
 
 3. Start the server.
 
-  ```bash
-  node index.js
+   ```bash
+   node index.js
 
 
 The server will be running on http://localhost:3000.
