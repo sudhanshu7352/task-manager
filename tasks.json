@@ -1,0 +1,14 @@
+[
+  {
+    "id": "77537419-3dc2-4521-8c43-4a4f29fc55c0",
+    "title": "Buy things",
+    "description": "Get milk, eggs, and bread",
+    "status": "completed"
+  },
+  {
+    "id": "6756f91a-2555-41d9-8da1-ff75144220d9",
+    "title": "Workout",
+    "description": "Go to the gym for 1 hour",
+    "status": "pending"
+  }
+]
